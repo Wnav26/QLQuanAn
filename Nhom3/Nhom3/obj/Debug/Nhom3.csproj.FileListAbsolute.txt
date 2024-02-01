@@ -1,0 +1,13 @@
+C:\Users\ADMIN\Downloads\LTTQBTL\Nhom3\Nhom3\bin\Debug\Nhom3.exe.config
+C:\Users\ADMIN\Downloads\LTTQBTL\Nhom3\Nhom3\bin\Debug\Nhom3.exe
+C:\Users\ADMIN\Downloads\LTTQBTL\Nhom3\Nhom3\bin\Debug\Nhom3.pdb
+C:\Users\ADMIN\Downloads\LTTQBTL\Nhom3\Nhom3\obj\Debug\Nhom3.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\LTTQBTL\Nhom3\Nhom3\obj\Debug\Nhom3.fAdmin.resources
+C:\Users\ADMIN\Downloads\LTTQBTL\Nhom3\Nhom3\obj\Debug\Nhom3.fLogin.resources
+C:\Users\ADMIN\Downloads\LTTQBTL\Nhom3\Nhom3\obj\Debug\Nhom3.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\LTTQBTL\Nhom3\Nhom3\obj\Debug\Nhom3.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\LTTQBTL\Nhom3\Nhom3\obj\Debug\Nhom3.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\LTTQBTL\Nhom3\Nhom3\obj\Debug\Nhom3.exe
+C:\Users\ADMIN\Downloads\LTTQBTL\Nhom3\Nhom3\obj\Debug\Nhom3.pdb
+C:\Users\ADMIN\Downloads\LTTQBTL\Nhom3\Nhom3\obj\Debug\Nhom3.fTableManager.resources
+C:\Users\ADMIN\Downloads\LTTQBTL\Nhom3\Nhom3\obj\Debug\Nhom3.fAccountProfile.resources
